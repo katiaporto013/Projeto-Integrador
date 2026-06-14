@@ -72,11 +72,3 @@ projeto/
 <p align= "center">
    Feito com dedicação por Kátia Porto. Projeto Integrador - Liga STEAM - 2026
 </p>
-
-## Mensagem final
-
-> "A robótica industrial aliada à visão computacional não é apenas tecnologia — é transformação."
-
-<p align= "center">
-   Feito com dedicação por Kátia Porto. Projeto Integrador - Liga STEAM - 2026
-</p>
