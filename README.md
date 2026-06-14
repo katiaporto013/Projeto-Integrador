@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <h1 align="center"> Robótica Sustentável: Inovação para uma Indústria Verde</h1>
 
 <p align="center"> Projeto desenvolvido para o <strong>Projeto Integrador</strong> da Liga STEAM / ArcelorMittal.</p>
@@ -74,4 +72,3 @@ projeto/
 <p align= "center">
    Feito com dedicação por Kátia Porto. Projeto Integrador - Liga STEAM - 2026
 </p>
->>>>>>> adfff0e1b90c77e8f0c7bd7a72e0517e45fcdc29
