@@ -33,7 +33,7 @@ Através de um site desenvolvido em HTML e CSS, o projeto busca apresentar de fo
 - Navegação entre páginas
 - Layout estilizado com CSS
 
-## Equipe
+## Equipe "Inovação Verde"
 
 | Integrante | Função |
 |---|---|
@@ -62,8 +62,8 @@ projeto/
 - [x] Criar repositório
 - [x] Fazer README
 - [x] Estruturar páginas HTML
-- [ ] Adicionar CSS completo
-- [ ] Melhorar responsividade
+- [x] Adicionar CSS completo
+- [x] Melhorar responsividade
 - [ ] Publicar projeto
 
 ## Mensagem final
