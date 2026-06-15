@@ -51,7 +51,8 @@ projeto/
 ├── css/
 │   └── style.css
 │
-├── imagens/
+├── js/
+│    └── main.js
 │
 └── README.md
 ```
