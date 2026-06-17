@@ -1,7 +1,3 @@
-/* ═══════════════════════════════════════
-   ROBÓTICA SUSTENTÁVEL — main.js
-   Projeto Integrador · Liga Steam / ArcelorMittal · 2026
-═══════════════════════════════════════ */
 
 /* ── Animação de entrada nas seções (Intersection Observer) ── */
 const observerOptions = {
